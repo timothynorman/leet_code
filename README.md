@@ -3,7 +3,7 @@ A selection of practice problems from the NeetCode roadmap (https://neetcode.io/
 
 ## 1. Arrays & Hashing
 - [x] Contains Duplicate
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
