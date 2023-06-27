@@ -4,8 +4,8 @@ A selection of practice problems from the NeetCode roadmap (https://neetcode.io/
 ## 1. Arrays & Hashing
 - [x] Contains Duplicate
 - [x] Valid Anagram
-- [ ] Two Sum
-- [ ] Group Anagrams
+- [x] Two Sum
+- [x] Group Anagrams
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
